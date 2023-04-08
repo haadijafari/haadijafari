@@ -1,4 +1,6 @@
-### Hi 👋, I'm Hadi Jafari
+
+<h1 align="center">Hi 👋, I'm Hadi Jafari</h1>
+<h3 align="center">Django Developer</h3>
 
 I got my diploma in Mathematics-Physics from Sempad schools. From that moment I realized my strong interest in Computer Science major, especially data analysis and Artificial Intelligence.
 I learned the C programming language before I entered university, and this was my first sweet step in programming universe.
