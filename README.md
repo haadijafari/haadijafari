@@ -15,5 +15,5 @@ I consider to have Image Proccessing in my road map as well, But this will be in
 
 - 🔭 I’m currently working on Django Framework
 - 🌱 I’m currently learning Web developing and Data analyzing
-- 📫 How to reach me: 
+- 📫 How to reach me: https://t.me/haadijafari
 - ⚡ Fun fact: University is a waste of time
