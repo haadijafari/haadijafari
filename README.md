@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hadi Jafari</h1>
 <h3 align="center">Django Developer & Future Data Analysis</h3>
 
-I got my diploma in Mathematics-Physics from Sempad schools. From that moment I realized my strong interest in Computer Science major, especially data analysis and Artificial Intelligence.
+After I got my diploma in Mathematics-Physics, I realized my strong interest in Computer Science major, especially data analysis and Artificial Intelligence.
 I learned the C programming language before I entered university, and this was my first sweet step in programming universe.
 
 After entering Shahrekord University (Computer Science major as you can guess), I also learned C++ and Java at an intermediate level,
@@ -16,4 +16,4 @@ I consider to have Image Proccessing in my road map as well, But this will be in
 - 🔭 I’m currently working on Django Framework
 - 🌱 I’m currently learning Web developing and Data analyzing
 - 📫 How to reach me: https://t.me/haadijafari
-- ⚡ Fun fact: University is a waste of time
+- ⚡ Fun fact: I'm surviving using Iran's shiternet
