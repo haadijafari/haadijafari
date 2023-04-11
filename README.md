@@ -31,7 +31,7 @@ I consider to have Image Proccessing in my road map as well, But this will be in
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/haadijafari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haadijafari" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/haadijafari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haadijafari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hadi-jafari-aa4a14241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haadijafari" height="30" width="40" /></a>
 <a href="https://instagram.com/haadijafari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haadijafari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/haadijafari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haadijafari" height="30" width="40" /></a>
 </p>
