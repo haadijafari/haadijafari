@@ -46,7 +46,7 @@ I consider to have Image Proccessing in my road map as well, But this will be in
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="haadijafari" height="30" width="40" />
   </a>
   <a href="https://t.me/haadijafari" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="haadijafari" height="30" width="40" />
+    <img align="center" src="https://github.com/twbs/icons/blob/5c6236ab8d25ff6e13efc148b6fb9ddbc165dcaf/icons/telegram.svg" alt="haadijafari" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/haadijafari" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haadijafari" height="30" width="40" />
