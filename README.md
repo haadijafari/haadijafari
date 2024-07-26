@@ -14,11 +14,9 @@ Now I am trying to gain experience and skills in this framework.</p>
 
 <p>The next step is to become proficient in working with Databases and Machine Learning, which I am very eager to take.
 I consider to have Image Proccessing in my road map as well, But this will be in relatively distant future!</p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haadijafari&label=Profile%20views&color=0e75b6&style=flat" alt="haadijafari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haadijafari" alt="haadijafari" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on [Django E-Shop](https://github.com/haadijafari/Basic_Eshop_Project)
 
 - 🌱 I’m currently learning **Django & Data Analyzing**
