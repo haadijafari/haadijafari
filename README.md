@@ -42,17 +42,8 @@ I consider to have Image Proccessing in my road map as well, But this will be in
   <a href="https://instagram.com/haadijafari" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haadijafari" height="30" width="40" />
   </a>
-  <a href="mailto:haadijafari2003@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="haadijafari" height="30" width="40" />
-  </a>
   <a href="https://t.me/haadijafari" target="blank">
-    <img align="center" src="https://github.com/twbs/icons/blob/5c6236ab8d25ff6e13efc148b6fb9ddbc165dcaf/icons/telegram.svg" alt="haadijafari" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/haadijafari" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haadijafari" height="30" width="40" />
-  </a>
-  <a href="https://haadijafari.info" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="haadijafari" height="30" width="40" />
+    <img align="center" src="https://github.com/twbs/icons/blob/5c6236ab8d25ff6e13efc148b6fb9ddbc165dcaf/icons/telegram.svg" alt="haadijafari" height="30" width="40" style="filter: invert(34%) sepia(93%) saturate(2051%) hue-rotate(190deg) brightness(99%) contrast(101%);"/>
   </a>
 </p>
 
