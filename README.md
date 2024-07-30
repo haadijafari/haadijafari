@@ -86,21 +86,21 @@ I consider to have Image Proccessing in my road map as well, But this will be in
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haadijafari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=haadijafari&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haadijafari&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=haadijafari&show_icons=true&locale=en" alt="haadijafari" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haadijafari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
     </td>
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haadijafari&" alt="haadijafari" />
+      <img src="https://streak-stats.demolab.com?user=haadijafari&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=haadijafari&show_icons=true&locale=en" alt="haadijafari" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=haadijafari&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
     </td>
   </tr>
 </table>
