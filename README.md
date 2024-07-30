@@ -95,13 +95,11 @@ I consider to have Image Proccessing in my road map as well, But this will be in
       <img src="https://streak-stats.demolab.com?user=haadijafari&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=haadijafari&show_icons=true&locale=en" alt="haadijafari" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=haadijafari&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=haadijafari&show_icons=true&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="haadijafari" />
     </td>
   </tr>
 </table>
+<div>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=haadijafari&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
