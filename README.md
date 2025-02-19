@@ -1,33 +1,24 @@
-![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/django-banner-1.png) <!-- (musitelink.com) -->
+![MasterHead](https://www.sevenstarwebsolutions.com/wp-content/uploads/2019/06/django-banner-1.png)
 
 <h1 align="center">Hi 👋, I'm Hadi Jafari</h1>
-<h3 align="center">Django Developer & Future Data Analysis</h3>
+<h3 align="center">Django & AI Developer</h3>
 
 
-<p>After I got my diploma in Mathematics-Physics, I realized my strong interest in Computer Science major, especially data analysis and Artificial Intelligence.
-I learned the C programming language before I entered university, and this was my first sweet step in programming universe.</p>
+<p>Welcome to my GitHub profile! I'm a junior Django developer with a deep passion for artificial intelligence.
+  Currently, I'm a final-semester computer science student at Shahr-e Kord University, working hard to master AI and transition into the field professionally.</p>
 
-<p>After entering Shahrekord University (Computer Science major as you can guess), I also learned C++ and Java at an intermediate level,
-But along with the university classes and these two languages, due to my personal interest in AI, I started learning Python and became proficient in it.
-As I was learning Python, I noticed the Django framework and after considering the options in front of me, I started learning it.
-Now I am trying to gain experience and skills in this framework.</p>
-
-<p>The next step is to become proficient in working with Databases and Machine Learning, which I am very eager to take.
-I consider to have Image Proccessing in my road map as well, But this will be in relatively distant future!</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haadijafari&label=Profile%20views&color=0e75b6&style=flat" alt="haadijafari" /> </p>
 
-- 🔭 I’m currently working on [Django E-Shop](https://github.com/haadijafari/Basic_Eshop_Project)
+- 🔭 I’m currently working on **My Resume**
+- 🧠 Exploring AI & Machine Learning
+- 🖥️ Experienced in Django, Python, and Web Development
+- 🎓 Bachelor's Degree (soon!) in Computer Science
+- 📚 Learning AI through projects, courses, and real-world applications
 
-- 🌱 I’m currently learning **Django & Data Analyzing**
-
-- 👨‍💻 All of my projects are available at [https://hadijafari.info/#portfolio](https://hadijafari.info/#portfolio)
-
-- 💬 Ask me about **Python and Django**
-
+- 👨‍💻 All of my projects are available at **[hadij.ir](https://hadij.ir/#portfolio)**
 - 📫 How to reach me **haadijafari2003@gmail.com**
-
-- 📄 Know about my experiences [https://hadijafari.info/static/Resume.pdf](https://hadijafari.info/static/Resume.pdf)
+- 📄 Know about my experiences **[My Resume](https://hadij.ir/resume.pdf)**
 
 - ⚡ Fun fact **I'm surviving using Iran's shiternet**
 
